@@ -22,5 +22,8 @@
   </url><url>
     <loc>http://example.org/categories/%E9%9A%8F%E6%83%B3/</loc>
     <lastmod>2023-07-17T00:42:46+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/review2021/</loc>
+    <lastmod>2022-01-01T23:44:03+08:00</lastmod>
   </url>
 </urlset>
