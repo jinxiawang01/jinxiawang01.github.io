@@ -23,10 +23,13 @@
     <loc>http://example.org/categories/%E9%9A%8F%E6%83%B3/</loc>
     <lastmod>2023-07-17T00:42:46+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/review2021/</loc>
-    <lastmod>2022-01-01T23:44:03+08:00</lastmod>
+    <loc>http://example.org/posts/review2022/</loc>
+    <lastmod>2023-01-02T20:04:30+08:00</lastmod>
   </url><url>
     <loc>http://example.org/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2023-01-02T20:04:30+08:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/review2021/</loc>
     <lastmod>2022-01-01T23:44:03+08:00</lastmod>
   </url>
 </urlset>
